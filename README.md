@@ -8,13 +8,13 @@ As part of a team project for my statistics class, we employed Bayesian methods 
 
 Approach and Structure:
 
-	•	Bayesian Prior Formation:
-We built initial beliefs (priors) based on historical data and expert opinions, using Bayesian reasoning to update these beliefs as new information emerged.
-	•	Cluster Analysis of Key Factors:
-For each question, we identified and categorized the most influential factors, such as geopolitical relationships, historical alliances, and economic indicators for the probability of outcomes.
-	•	Research and Data Analysis:
-We then calculated posterior probabilities by factoring in updated data and information from various sources, including expert forecasters and global events.
-	•	Dynamic Updating:
-The project emphasized the importance of continuously updating predictions as new, unforeseen events occurred, and how these impacted the likelihood of different outcomes.
-	•	Final Forecasting:
-To quantify the certainty of predictions, we applied Sherman Kent’s Chart of Certainty, assigning specific probabilities to each possible outcome.
+	1. Bayesian Prior Formation:
+		- We built initial beliefs (priors) based on historical data and expert opinions, using Bayesian reasoning to update these beliefs as new information emerged.
+	2. Cluster Analysis of Key Factors:
+		- For each question, we identified and categorized the most influential factors, such as geopolitical relationships, historical alliances, and economic indicators for the 		probability of outcomes.
+	3. Research and Data Analysis:
+		- We then calculated posterior probabilities by factoring in updated data and information from various sources, including expert forecasters and global events.
+	4. Dynamic Updating:
+ 		- The project emphasized the importance of continuously updating predictions as new, unforeseen events occurred, and how these impacted the likelihood of different outcomes.
+	5. Final Forecasting:
+		- To quantify the certainty of predictions, we applied Sherman Kent’s Chart of Certainty, assigning specific probabilities to each possible outcome.
